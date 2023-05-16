@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InvoiceTotalGUI01", "Invoic
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InvoiceTotalGUI02b", "InvoiceTotalGUI02b\InvoiceTotalGUI02b.csproj", "{10A6CD35-0BA0-4985-A2CA-D48E52921C21}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InvoiceTotalConsole01", "InvoiceTotalConsole01\InvoiceTotalConsole01.csproj", "{CE8ED683-7DCE-4300-8D89-CD35A3A600FB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{10A6CD35-0BA0-4985-A2CA-D48E52921C21}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{10A6CD35-0BA0-4985-A2CA-D48E52921C21}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{10A6CD35-0BA0-4985-A2CA-D48E52921C21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE8ED683-7DCE-4300-8D89-CD35A3A600FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE8ED683-7DCE-4300-8D89-CD35A3A600FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE8ED683-7DCE-4300-8D89-CD35A3A600FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE8ED683-7DCE-4300-8D89-CD35A3A600FB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
