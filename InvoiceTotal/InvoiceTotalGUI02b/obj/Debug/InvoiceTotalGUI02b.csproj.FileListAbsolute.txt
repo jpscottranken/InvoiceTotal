@@ -1,0 +1,11 @@
+C:\Users\jpscott\Desktop\InvoiceTotal\InvoiceTotal\InvoiceTotalGUI02b\bin\Debug\InvoiceTotalGUI02b.exe.config
+C:\Users\jpscott\Desktop\InvoiceTotal\InvoiceTotal\InvoiceTotalGUI02b\bin\Debug\InvoiceTotalGUI02b.exe
+C:\Users\jpscott\Desktop\InvoiceTotal\InvoiceTotal\InvoiceTotalGUI02b\bin\Debug\InvoiceTotalGUI02b.pdb
+C:\Users\jpscott\Desktop\InvoiceTotal\InvoiceTotal\InvoiceTotalGUI02b\obj\Debug\InvoiceTotalGUI02b.csproj.AssemblyReference.cache
+C:\Users\jpscott\Desktop\InvoiceTotal\InvoiceTotal\InvoiceTotalGUI02b\obj\Debug\InvoiceTotalGUI02b.csproj.SuggestedBindingRedirects.cache
+C:\Users\jpscott\Desktop\InvoiceTotal\InvoiceTotal\InvoiceTotalGUI02b\obj\Debug\InvoiceTotalGUI02b.Form1.resources
+C:\Users\jpscott\Desktop\InvoiceTotal\InvoiceTotal\InvoiceTotalGUI02b\obj\Debug\InvoiceTotalGUI02b.Properties.Resources.resources
+C:\Users\jpscott\Desktop\InvoiceTotal\InvoiceTotal\InvoiceTotalGUI02b\obj\Debug\InvoiceTotalGUI02b.csproj.GenerateResource.cache
+C:\Users\jpscott\Desktop\InvoiceTotal\InvoiceTotal\InvoiceTotalGUI02b\obj\Debug\InvoiceTotalGUI02b.csproj.CoreCompileInputs.cache
+C:\Users\jpscott\Desktop\InvoiceTotal\InvoiceTotal\InvoiceTotalGUI02b\obj\Debug\InvoiceTotalGUI02b.exe
+C:\Users\jpscott\Desktop\InvoiceTotal\InvoiceTotal\InvoiceTotalGUI02b\obj\Debug\InvoiceTotalGUI02b.pdb

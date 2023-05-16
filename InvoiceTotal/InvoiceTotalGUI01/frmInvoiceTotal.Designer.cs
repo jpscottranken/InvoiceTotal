@@ -43,14 +43,17 @@
             // 
             // btnCalculate
             // 
+            this.btnCalculate.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
             this.btnCalculate.Font = new System.Drawing.Font("Arial Narrow", 24F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnCalculate.Location = new System.Drawing.Point(85, 359);
             this.btnCalculate.Name = "btnCalculate";
             this.btnCalculate.Size = new System.Drawing.Size(148, 54);
             this.btnCalculate.TabIndex = 1;
             this.btnCalculate.Text = "&Calculate";
-            this.btnCalculate.UseVisualStyleBackColor = true;
+            this.btnCalculate.UseVisualStyleBackColor = false;
             this.btnCalculate.Click += new System.EventHandler(this.btnCalculate_Click);
+            this.btnCalculate.MouseEnter += new System.EventHandler(this.btnCalculate_MouseEnter);
+            this.btnCalculate.MouseLeave += new System.EventHandler(this.btnCalculate_MouseLeave);
             // 
             // btnClear
             // 
@@ -63,6 +66,8 @@
             this.btnClear.Text = "C&lear";
             this.btnClear.UseVisualStyleBackColor = true;
             this.btnClear.Click += new System.EventHandler(this.btnClear_Click);
+            this.btnClear.MouseEnter += new System.EventHandler(this.btnClear_MouseEnter);
+            this.btnClear.MouseLeave += new System.EventHandler(this.btnClear_MouseLeave);
             // 
             // btnExit
             // 
@@ -74,6 +79,8 @@
             this.btnExit.Text = "E&xit";
             this.btnExit.UseVisualStyleBackColor = true;
             this.btnExit.Click += new System.EventHandler(this.btnExit_Click);
+            this.btnExit.MouseEnter += new System.EventHandler(this.btnExit_MouseEnter);
+            this.btnExit.MouseLeave += new System.EventHandler(this.btnExit_MouseLeave);
             // 
             // txtSubtotal
             // 
@@ -83,6 +90,7 @@
             this.txtSubtotal.Size = new System.Drawing.Size(316, 44);
             this.txtSubtotal.TabIndex = 0;
             this.txtSubtotal.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.txtSubtotal.TextChanged += new System.EventHandler(this.txtSubtotal_TextChanged);
             // 
             // txtDiscountAmount
             // 
@@ -93,6 +101,7 @@
             this.txtDiscountAmount.Size = new System.Drawing.Size(316, 44);
             this.txtDiscountAmount.TabIndex = 5;
             this.txtDiscountAmount.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.txtDiscountAmount.TextChanged += new System.EventHandler(this.txtDiscountAmount_TextChanged);
             // 
             // txtTotal
             // 
@@ -103,6 +112,7 @@
             this.txtTotal.Size = new System.Drawing.Size(316, 44);
             this.txtTotal.TabIndex = 6;
             this.txtTotal.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.txtTotal.TextChanged += new System.EventHandler(this.txtTotal_TextChanged);
             // 
             // txtDiscountPercent
             // 
@@ -113,6 +123,7 @@
             this.txtDiscountPercent.Size = new System.Drawing.Size(316, 44);
             this.txtDiscountPercent.TabIndex = 4;
             this.txtDiscountPercent.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.txtDiscountPercent.TextChanged += new System.EventHandler(this.txtDiscountPercent_TextChanged);
             // 
             // lblSubtotal
             // 
@@ -124,6 +135,7 @@
             this.lblSubtotal.TabIndex = 7;
             this.lblSubtotal.Text = "Subtotal:";
             this.lblSubtotal.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
+            this.lblSubtotal.Click += new System.EventHandler(this.lblSubtotal_Click);
             // 
             // lblDiscountPercent
             // 
@@ -135,6 +147,7 @@
             this.lblDiscountPercent.TabIndex = 8;
             this.lblDiscountPercent.Text = "Discount Percent:";
             this.lblDiscountPercent.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
+            this.lblDiscountPercent.Click += new System.EventHandler(this.lblDiscountPercent_Click);
             // 
             // lblDiscountAmount
             // 
@@ -146,6 +159,7 @@
             this.lblDiscountAmount.TabIndex = 9;
             this.lblDiscountAmount.Text = "Discount Amount:";
             this.lblDiscountAmount.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
+            this.lblDiscountAmount.Click += new System.EventHandler(this.lblDiscountAmount_Click);
             // 
             // lblTotal
             // 
@@ -157,6 +171,7 @@
             this.lblTotal.TabIndex = 10;
             this.lblTotal.Text = "Total:";
             this.lblTotal.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
+            this.lblTotal.Click += new System.EventHandler(this.lblTotal_Click);
             // 
             // frmInvoiceTotal
             // 
@@ -180,6 +195,7 @@
             this.Name = "frmInvoiceTotal";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Invoice Total";
+            this.Load += new System.EventHandler(this.frmInvoiceTotal_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

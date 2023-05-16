@@ -5,6 +5,8 @@ VisualStudioVersion = 17.5.33627.172
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InvoiceTotalGUI01", "InvoiceTotalGUI01\InvoiceTotalGUI01.csproj", "{B23AC42F-20A3-4B0B-A8CA-5B0852E63C5B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InvoiceTotalGUI02b", "InvoiceTotalGUI02b\InvoiceTotalGUI02b.csproj", "{10A6CD35-0BA0-4985-A2CA-D48E52921C21}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{B23AC42F-20A3-4B0B-A8CA-5B0852E63C5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B23AC42F-20A3-4B0B-A8CA-5B0852E63C5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B23AC42F-20A3-4B0B-A8CA-5B0852E63C5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10A6CD35-0BA0-4985-A2CA-D48E52921C21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10A6CD35-0BA0-4985-A2CA-D48E52921C21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10A6CD35-0BA0-4985-A2CA-D48E52921C21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10A6CD35-0BA0-4985-A2CA-D48E52921C21}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

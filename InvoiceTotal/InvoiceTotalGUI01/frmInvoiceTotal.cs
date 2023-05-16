@@ -55,5 +55,83 @@ namespace InvoiceTotalGUI01
                 Application.Exit();
             }
         }
+
+        private void btnCalculate_MouseEnter(object sender, EventArgs e)
+        {
+            //btnCalculate.BackColor = Color.Green;
+        }
+
+        private void btnCalculate_MouseLeave(object sender, EventArgs e)
+        {
+            //btnCalculate.BackColor = Color.LightGray;
+        }
+
+        private void btnClear_MouseEnter(object sender, EventArgs e)
+        {
+            //btnClear.BackColor = Color.LightYellow;
+        }
+
+        private void btnClear_MouseLeave(object sender, EventArgs e)
+        {
+            //btnClear.BackColor = Color.LightGray;
+        }
+
+        private void btnExit_MouseEnter(object sender, EventArgs e)
+        {
+            //btnExit.BackColor = Color.Red;
+        }
+
+        private void btnExit_MouseLeave(object sender, EventArgs e)
+        {
+            //btnExit.BackColor = Color.LightGray;
+        }
+
+        private void frmInvoiceTotal_Load(object sender, EventArgs e)
+        {
+            MessageBox.Show("Welcome To My Invoice Total GUI App!",
+                            "WELCOME!!!",
+                            MessageBoxButtons.OK,
+                            MessageBoxIcon.Information);
+        }
+
+        private void lblDiscountAmount_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void lblDiscountPercent_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void lblSubtotal_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void txtDiscountPercent_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void txtTotal_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void txtDiscountAmount_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void txtSubtotal_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void lblTotal_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
