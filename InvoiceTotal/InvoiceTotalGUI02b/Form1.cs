@@ -57,5 +57,45 @@ namespace InvoiceTotalGUI02b
                 Application.Exit();
             }
         }
+
+        private void lblDiscountAmount_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void lblDiscountPercent_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void lblSubtotal_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void txtDiscountPct_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void txtTotal_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void txtDiscountAmt_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void txtSubtotal_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void lblTotal_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

@@ -1,0 +1,11 @@
+C:\Users\jpscott\Desktop\InvoiceTotal\InvoiceTotal\FutureValueGUI01\bin\Debug\FutureValueGUI01.exe.config
+C:\Users\jpscott\Desktop\InvoiceTotal\InvoiceTotal\FutureValueGUI01\bin\Debug\FutureValueGUI01.exe
+C:\Users\jpscott\Desktop\InvoiceTotal\InvoiceTotal\FutureValueGUI01\bin\Debug\FutureValueGUI01.pdb
+C:\Users\jpscott\Desktop\InvoiceTotal\InvoiceTotal\FutureValueGUI01\obj\Debug\FutureValueGUI01.csproj.AssemblyReference.cache
+C:\Users\jpscott\Desktop\InvoiceTotal\InvoiceTotal\FutureValueGUI01\obj\Debug\FutureValueGUI01.csproj.SuggestedBindingRedirects.cache
+C:\Users\jpscott\Desktop\InvoiceTotal\InvoiceTotal\FutureValueGUI01\obj\Debug\FutureValueGUI01.frmFutureValue01.resources
+C:\Users\jpscott\Desktop\InvoiceTotal\InvoiceTotal\FutureValueGUI01\obj\Debug\FutureValueGUI01.Properties.Resources.resources
+C:\Users\jpscott\Desktop\InvoiceTotal\InvoiceTotal\FutureValueGUI01\obj\Debug\FutureValueGUI01.csproj.GenerateResource.cache
+C:\Users\jpscott\Desktop\InvoiceTotal\InvoiceTotal\FutureValueGUI01\obj\Debug\FutureValueGUI01.csproj.CoreCompileInputs.cache
+C:\Users\jpscott\Desktop\InvoiceTotal\InvoiceTotal\FutureValueGUI01\obj\Debug\FutureValueGUI01.exe
+C:\Users\jpscott\Desktop\InvoiceTotal\InvoiceTotal\FutureValueGUI01\obj\Debug\FutureValueGUI01.pdb
